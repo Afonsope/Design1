@@ -1,4 +1,4 @@
-# Desing1
+# Design1
 # Projeto de Página de Móveis
 
 Este projeto é uma página web desenvolvida em HTML e CSS, focada na apresentação de ambientes únicos e exclusivos para decoração. O design é moderno e elegante, visando atrair clientes que buscam soluções de decoração diferenciadas.
